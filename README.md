@@ -61,7 +61,8 @@ python main.py
 - 不喜歡數
 
 
-![image](https://github.com/user-attachments/assets/9bbdbebb-c44d-4755-87af-d8ff0b849be0)
+![image](https://github.com/user-attachments/assets/9cf34a80-b601-4ed6-9994-27b88eb16132)
+
 
 
 
