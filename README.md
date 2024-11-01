@@ -5,10 +5,15 @@
 
 ## 前置準備
 取得 YouTube API 金鑰
+
 前往 Google Cloud Console。
+
 建立新專案（或選擇現有專案）。
+
 啟用 YouTube Data API v3 服務。
+
 在 憑證 頁面中建立 API 金鑰，並複製該金鑰。
+
 將此金鑰填入程式碼中的 api_key 變數。
 
 ## 功能說明
