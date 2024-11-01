@@ -52,14 +52,24 @@ python main.py
 ```
 ## 輸出結果
 程式執行後會產生：
-thumbnails/：儲存所有影片縮圖的資料夾
-video_details/video_details.csv：包含以下影片資訊的 CSV 檔案
+video_details資料夾，裡面含有video_details.csv：包含以下影片資訊的 CSV 檔案
 - 影片標題
 - 影片 ID
 - 發布日期
 - 觀看次數
 - 喜歡數
 - 不喜歡數
+
+thumbnails資料夾：儲存所有影片縮圖的資料夾
+
+
+
+
+
+
+
+
+
 
 
 
