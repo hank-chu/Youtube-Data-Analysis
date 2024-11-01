@@ -60,7 +60,13 @@ video_details資料夾，裡面含有video_details.csv：包含以下影片資�
 - 喜歡數
 - 不喜歡數
 
+
+![image](https://github.com/user-attachments/assets/9bbdbebb-c44d-4755-87af-d8ff0b849be0)
+
+
+
 thumbnails資料夾：儲存所有影片縮圖的資料夾
+![image](https://github.com/user-attachments/assets/38df5829-6a2a-4248-9486-8e1264c4d7af)
 
 
 
